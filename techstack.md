@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 fisforfaheem/recipes_ui_app is built on the following main stack:
+
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
@@ -14,11 +15,13 @@ fisforfaheem/recipes_ui_app is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 fisforfaheem/recipes_ui_app is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
@@ -31,14 +34,15 @@ fisforfaheem/recipes_ui_app is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [fisforfaheem/recipes_ui_app](https://github.com/fisforfaheem/recipes_ui_app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/10/23 <br/>Report generated|
+|16<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -137,7 +141,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (2)
+## Other (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'>
@@ -155,6 +159,14 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
+  <br>
+  <sub><a href="http://">HTML</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
@@ -166,7 +178,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[cupertino_icons](https://pub.dartlang.org/cupertino_icons)|v1.0.5|08/27/22|roaa94 |N/A|N/A|
-|[flutter](https://pub.dartlang.org/flutter)|N/A|05/22/23|Faheem Ahmad |N/A|N/A|
+|[flutter](https://pub.dartlang.org/flutter)|N/A|08/27/22|roaa94 |N/A|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (1)
@@ -178,4 +190,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
