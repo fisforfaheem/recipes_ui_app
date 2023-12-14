@@ -1,11 +1,11 @@
 repo_name: fisforfaheem/recipes_ui_app
-report_id: abe40573d812a3623a51adbdc8ba8331
+report_id: 5f3c6cd6e87c568765621a1cda98f17b
 repo_type: Public
-timestamp: '2023-11-10T08:25:24+00:00'
-requested_by: fisforfaheem
+timestamp: '2023-12-14T10:12:14+00:00'
+requested_by: Roaa94
 provider: github
 branch: dev
-detected_tools_count: 15
+detected_tools_count: 16
 tools:
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -78,8 +78,8 @@ tools:
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
   detection_source: pubspec.yaml
-  last_updated_by: Faheem Ahmad
-  last_updated_on: 2023-05-22 21:22:58.000000000 Z
+  last_updated_by: roaa94
+  last_updated_on: 2022-08-27 15:14:10.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -97,9 +97,9 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/firebase-hosting-pull-request.yml"
-  last_updated_by: roaa94
-  last_updated_on: 2022-08-29 09:20:16.000000000 Z
+  detection_source: ".github/workflows/firebase-hosting-merge.yml"
+  last_updated_by: Roaa
+  last_updated_on: 2022-08-29 09:26:46.000000000 Z
 - name: Gradle
   description: A powerful build system for the JVM
   website_url: https://www.gradle.org/
@@ -131,9 +131,18 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
-  detection_source: macos/Podfile.lock
+  detection_source: ios/Podfile.lock
   last_updated_by: roaa94
   last_updated_on: 2022-08-27 15:14:10.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: web/index.html
+  last_updated_by: roaa94
+  last_updated_on: 2022-08-13 09:05:59.000000000 Z
 - name: cupertino_icons
   description: Default icons asset for Cupertino widgets based on Apple styled icons
   package_url: https://pub.dartlang.org/cupertino_icons
@@ -143,7 +152,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.yaml
+  detection_source_url: https://github.com/fisforfaheem/recipes_ui_app/blob/dev/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: roaa94
   last_updated_on: 2022-08-27 15:14:10.000000000 Z
@@ -156,8 +165,8 @@ tools:
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
   detection_source: pubspec.yaml
-  last_updated_by: Faheem Ahmad
-  last_updated_on: 2023-05-22 21:22:58.000000000 Z
+  last_updated_by: roaa94
+  last_updated_on: 2022-08-27 15:14:10.000000000 Z
 - name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
   description: Kotlin Standard Library JDK 7 extension
   license: Apache-2.0
